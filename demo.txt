@@ -1,4 +1,5 @@
 What is your favorite movie?
+<<<<<<< HEAD
 Forrest Gump
 
 If you could go anywhere in the world for vacation, where would it be?
@@ -6,4 +7,10 @@ Mecca
 
 If you could have any super power, what would it be (and why that power)?
 Time Control because it is the most overpowered super power there is. There is no counter to it
+=======
+
+If you could go anywhere in the world for vacation, where would it be?
+
+If you could have any super power, what would it be (and why that power)?
+>>>>>>> cc3e67f9d2cb79819f6a2dafdb0ffae19a070aa5
 
